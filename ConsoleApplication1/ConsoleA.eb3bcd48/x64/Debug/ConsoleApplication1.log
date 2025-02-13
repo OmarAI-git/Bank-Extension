@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+C:\C++ project\Bank Extension\ConsoleApplication1\ConsoleApplication1.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\C++ project\Bank Extension\ConsoleApplication1\ConsoleApplication1.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\C++ project\Bank Extension\ConsoleApplication1\MyLibraryS.h(135,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\C++ project\Bank Extension\ConsoleApplication1\ConsoleApplication1.cpp(38,18): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\C++ project\Bank Extension\ConsoleApplication1\ConsoleApplication1.cpp(190,1): warning C4715: 'ClientExistByAccountNumber': not all control paths return a value
+C:\C++ project\Bank Extension\ConsoleApplication1\ConsoleApplication1.cpp(325,1): warning C4715: 'FindClient': not all control paths return a value
+C:\C++ project\Bank Extension\ConsoleApplication1\ConsoleApplication1.cpp(344,1): warning C4715: 'FoundClient': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\C++ project\Bank Extension\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
